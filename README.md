@@ -1,7 +1,11 @@
 ## Certificates
 ### Responsive Web Design - freeCodeCamp
-![FCC Certificate](Screenshot 2026-06-21 154513.png)
+![FCC Certificate](responsive web design)
 **Verify** [freecodecamp.org/certification/abdullahdev157/responsive-web-design](https://freecodecamp.org/certification/abdullahdev157/responsive web design)
+### javaScript - freeCodeCamp
+![FCC Certificate](JavaScript Certificate)
+**Verify** [freecodecamp.org/certification/abdullahdev157/javaScript](https://1drv.ms/i/c/2014282af165152d/IQBZ0V12yxG1TrIHtCIYOa4QAbbwDLSrCBEBFhGmTjzmuEE?e=Y9d9Z4)
+
 
 <!--
 **abdullahdev157-design/abdullahdev157-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
